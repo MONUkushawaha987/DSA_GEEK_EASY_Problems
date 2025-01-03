@@ -1,7 +1,7 @@
 // Java program to print table of a number 
 import java.io.*;
 
-class GfG {
+class logic2{
 
     public static void printTable(int n)  {
               
