@@ -1,7 +1,7 @@
 // Java program to print table of a number 
 import java.io.*;
 
-class logic2{
+class logic1{
 
     public static void printTable(int n)  {
               
