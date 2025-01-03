@@ -1,4 +1,4 @@
-// Java program to print table of a number 
+// Java program to print table of a number with iterative approach
 import java.io.*;
 
 class logic1{
