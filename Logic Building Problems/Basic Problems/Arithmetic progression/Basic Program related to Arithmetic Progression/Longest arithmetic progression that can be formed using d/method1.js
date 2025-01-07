@@ -1,4 +1,3 @@
-<script>
 
 // JavaScript code for finding the
 // maximum length of AP
@@ -42,4 +41,3 @@ let a = [1, 4, 2, 5, 20, 11, 56, 100, 20, 23];
 
 document.write(maxlenAP(a, n, d) + "<br>");
 
-</script>
