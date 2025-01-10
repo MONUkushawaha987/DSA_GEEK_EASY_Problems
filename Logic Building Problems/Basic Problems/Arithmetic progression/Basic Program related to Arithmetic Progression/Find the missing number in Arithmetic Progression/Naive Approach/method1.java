@@ -1,6 +1,6 @@
 // Java program to find the missing number
 // in a given arithmetic progression
-class GFG {
+class Main{
     static int findMissing(int[] arr) {
         int n = arr.length;
         int a = arr[0];
