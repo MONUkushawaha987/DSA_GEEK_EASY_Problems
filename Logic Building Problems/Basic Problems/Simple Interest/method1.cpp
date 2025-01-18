@@ -1,5 +1,4 @@
-// CPP program to find simple interest for
-// given principal amount, time and rate of interest
+// CPP program to find simple interest for given principal amount, time and rate of interest
 #include<iostream>
 using namespace std;
 
