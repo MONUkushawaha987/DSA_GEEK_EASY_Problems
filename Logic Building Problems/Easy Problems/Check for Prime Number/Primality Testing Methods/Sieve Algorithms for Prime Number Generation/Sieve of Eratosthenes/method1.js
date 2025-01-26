@@ -1,8 +1,6 @@
 
 
-// javascript program to print all 
-// primes smaller than or equal to
-// n using Sieve of Eratosthenes
+// javascript program to print all  primes smaller than or equal to n using Sieve of Eratosthenes
 
 
 function sieveOfEratosthenes(n)
