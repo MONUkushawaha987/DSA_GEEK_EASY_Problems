@@ -1,6 +1,6 @@
 // Java program to find a distinct prime number pair whose product is equal to given number
 
-class GFG {
+class Main {
 
 	// Function to generate all prime
 	// numbers less than n
