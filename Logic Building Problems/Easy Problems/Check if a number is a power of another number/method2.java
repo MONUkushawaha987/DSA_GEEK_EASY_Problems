@@ -1,5 +1,4 @@
-// Java program to check given 
-// number y is power of x
+// Java program to check given number y is power of x
 
 class Main 
 {
