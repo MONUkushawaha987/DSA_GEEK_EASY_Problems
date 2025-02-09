@@ -1,6 +1,4 @@
-// Java program for Fizz Buzz Problem 
-// by checking every integer individually 
-// with hashing
+// Java program for Fizz Buzz Problem  by checking every integer individually  with hashing
 
 import java.util.ArrayList;
 import java.util.HashMap;
